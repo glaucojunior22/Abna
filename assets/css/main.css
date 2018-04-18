@@ -1035,6 +1035,7 @@ ul.actions {
 .row {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   box-sizing: border-box; }
   .row > * {
     box-sizing: border-box; }
@@ -2820,10 +2821,3 @@ body.is-menu-visible #menu {
   transform: translateX(0);
   box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.2);
   visibility: visible; }
-
-/*  Customizado por Glauco Junior */
-.img-logo{
-  max-width: 100%;
-  height: auto;
-  margin: 0 0 2vw 0;
-}
