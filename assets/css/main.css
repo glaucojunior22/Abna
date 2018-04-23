@@ -1813,7 +1813,7 @@ ul.icons {
   -ms-justify-content: center;
   justify-content: center;
   background-image: url("../../images/banner.jpg");
-  background-position: center;
+  background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
   border-top: 0;
